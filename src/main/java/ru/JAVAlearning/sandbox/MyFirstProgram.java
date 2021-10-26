@@ -6,7 +6,14 @@ public class MyFirstProgram {
 		System.out.println("Hello, world!");
 		System.out.println(2+2);
 		System.out.println(2*2);
+		System.out.println(2/2);
+		System.out.println(2-2);
 
+		System.out.println(1/2);
+		System.out.println(1.0/2);
+
+		System.out.println("2"+"22");
+		System.out.println("2" + 2);
 	}
 
 }
